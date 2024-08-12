@@ -1,0 +1,38 @@
+
+/* Add in Vendeur Fonts! */
+@font-face {
+	font-family: "Vendeur Regular";
+	src: url("fonts/Vendeur\ Regular.otf") format("truetype");
+}
+p.customfont { 
+	font-family: "Vendeur Regular", Verdana, Tahoma;
+}
+@font-face {
+	font-family: "Vendeur Italic";
+	src: url("fonts/Vendeur\ Italic.otf") format("truetype");
+}
+p.customfont { 
+	font-family: "Vendeur Italic", Verdana, Tahoma;
+}
+@font-face {
+	font-family: "Vendeur Outline";
+	src: url("fonts/Vendeur\ Outline.otf") format("truetype");
+}
+p.customfont { 
+	font-family: "Vendeur Outline", Verdana, Tahoma;
+}
+
+* {box-sizing:border-box;
+	border-collapse: collapse;
+	border-spacing: 0;}
+
+body {background-color:rgba(160, 183, 183, 0.859)}
+
+header {background-color:rgba(134, 162, 162, 0.859);
+margin: 0; padding: 0}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
