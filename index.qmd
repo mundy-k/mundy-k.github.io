@@ -1,6 +1,5 @@
 ---
 title: "Kaitlyn Mundy"
-subtitle: "Social Computational Neuroscientist in Training"
 image: imgs/profile.jpg
 about:
   template: trestles

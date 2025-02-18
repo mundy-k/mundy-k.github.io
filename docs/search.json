@@ -19,5 +19,103 @@
     "title": "CV",
     "section": "",
     "text": "PDF not showing? Click here to download my CV."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "My journey into science was made possible by a host of grad students, post-docs, and professors committed to open science and the mentorship of young researchers.\nAlong the way, I’ve picked up a fair number of resources that I never would have found if they weren’t recommended to me. This list is a compilation of those resources.\nIf you have any additions you’d like to make to this list, please reach out to me!"
+  },
+  {
+    "objectID": "resources.html#color-palette-generators",
+    "href": "resources.html#color-palette-generators",
+    "title": "Resources",
+    "section": "Color Palette Generators",
+    "text": "Color Palette Generators\n\nCoolors is a good site for generating color palettes on the fly. It’s fast and flexible, and honestly sometimes I just make palettes for fun.\nColorBrewer2 is an easy way to make more traditional R color palettes. Unlike Coolors, this has no ads, and a direct checkbox to filter for color-blind friendly palettes."
+  },
+  {
+    "objectID": "resources.html#website-makers",
+    "href": "resources.html#website-makers",
+    "title": "Resources",
+    "section": "Website Makers",
+    "text": "Website Makers\n\nThis website was made following Sam Csik’s Quarto tutorial"
+  },
+  {
+    "objectID": "resources.html#open-source-datasets",
+    "href": "resources.html#open-source-datasets",
+    "title": "Resources",
+    "section": "Open Source Datasets",
+    "text": "Open Source Datasets\n\nOpenCogData compiles publicly available cognitive task papers and datasets and is maintained by the NIMH Data Science & Sharing Team.\n\nIf you’re looking for some papers/datasets for a specific cognitive task/topic, this website also has a tagging system so you can filter relatively easily.\n\nSNAP (the Stanford Network Analysis Project) has a collection of publicly available large network datasets."
+  },
+  {
+    "objectID": "resources.html#website-making-tutorials",
+    "href": "resources.html#website-making-tutorials",
+    "title": "Resources",
+    "section": "Website Making Tutorials",
+    "text": "Website Making Tutorials\n\nThis website was made following Sam Csik’s Quarto tutorial which I highly recommend!"
+  },
+  {
+    "objectID": "resources.html#data-processing",
+    "href": "resources.html#data-processing",
+    "title": "Resources",
+    "section": "Data Processing",
+    "text": "Data Processing\n\nfMRI\n\nDartBrains is designed to give an introduction to neuroimaging data analysis (with a focus on functional connectivity and multivoxel pattern analysis)\n\n\n\nNaturalistic\n\nDartmouth’s Naturalistic Data Analysis course goes over various techniques for analyzing naturalistic data in Python"
+  },
+  {
+    "objectID": "resources.html#free-icons",
+    "href": "resources.html#free-icons",
+    "title": "Resources",
+    "section": "Free Icons",
+    "text": "Free Icons\n\nBootstrap can get you the basics - a bunch of filled and outlined vector graphics in case you need something simple.\nFlaticon has tons of options and makes it easy to get several versions of the same character for presentations.\n\nI’m told that if you’re willing to make an account you can also change the color of some icons.\n\nFont Awesome is similar to Bootstrap but has some more variety.\n\nIf you’re cheap like me and won’t pay for pro, there aren’t many more options but you might find something to your liking."
+  },
+  {
+    "objectID": "resources.html#data-analysis-tools",
+    "href": "resources.html#data-analysis-tools",
+    "title": "Resources",
+    "section": "Data Analysis (Tools)",
+    "text": "Data Analysis (Tools)\n\nPARE (Part Attention REgressor) is an occlusion-robust human pose and shape estimator. See arXiv paper here.\nwhisperX is an automatic speech recognition model designed to provide highly accurate transcriptions along with timestamps. This is an offshoot of OpenAI’s whisper with demonstrated superior performance."
+  },
+  {
+    "objectID": "resources.html#data-analysis-tutorials",
+    "href": "resources.html#data-analysis-tutorials",
+    "title": "Resources",
+    "section": "Data Analysis Tutorials",
+    "text": "Data Analysis Tutorials\n\nfMRI\n\nDartBrains is designed to give an introduction to neuroimaging data analysis (with a focus on functional connectivity and multivoxel pattern analysis).\n\n\n\nNaturalistic\n\nDartmouth’s Naturalistic Data Analysis course goes over various techniques for analyzing naturalistic data in Python."
+  },
+  {
+    "objectID": "resources.html#data-annotation-tools",
+    "href": "resources.html#data-annotation-tools",
+    "title": "Resources",
+    "section": "Data Annotation Tools",
+    "text": "Data Annotation Tools\n\nVisual\n\nPARE (Part Attention REgressor) is an occlusion-robust human pose and shape estimator. See arXiv paper here.\nPy-Feat is a Python toolbox designed to annotate facial expressions in terms of facial landmarks, action units, and emotional expression. See arXiv paper here.\n\n\n\nAudio\n\nwhisperX is an automatic speech recognition model designed to provide highly accurate transcriptions along with timestamps. This is an offshoot of OpenAI’s whisper with demonstrated superior performance. See arXiv paper here."
+  },
+  {
+    "objectID": "resources.html#citation-tools",
+    "href": "resources.html#citation-tools",
+    "title": "Resources",
+    "section": "Citation Tools",
+    "text": "Citation Tools\n\nfreecitationchecker goes through your paper and locates your citations and automatically matches them with your references. Anything without a direct match or missing entirely gets flagged. Note that your file must be in .docx format. Created by John Andrew Chwe."
+  },
+  {
+    "objectID": "resources.html#data-analysis-tutorials-1",
+    "href": "resources.html#data-analysis-tutorials-1",
+    "title": "Resources",
+    "section": "Data Analysis Tutorials",
+    "text": "Data Analysis Tutorials\n\nHDDM is a Python toolbox"
+  },
+  {
+    "objectID": "resources.html#open-source-textbooks",
+    "href": "resources.html#open-source-textbooks",
+    "title": "Resources",
+    "section": "Open Source Textbooks",
+    "text": "Open Source Textbooks\n\nComputational Cognitive Neuroscience, 5th Edition by Randall C. O’Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and contributors.\n\nAn introductory textbook for how to computationally model cognitive processes (e.g., perception, attention, motor control).\nThere’s also a companion set of simulations for you to run as you work your way through the textbook.\nThis was used in Michael Frank’s Computational Cognitive Neuroscience course at Brown University as recently as Fall 2024.\n\nNetworks, Crowds, and Markets: Reasoning About a Highly Connected World by David Easley and Jon Kleinberg.\n\nAn introductory textbook for the conceptual basis of network analysis.\nThis was used in Augustin Chaintreau’s Networks, Crowds, and the Web course at Columbia University as recently as Spring 2025."
+  },
+  {
+    "objectID": "resources.html#data-analysis-toolboxes",
+    "href": "resources.html#data-analysis-toolboxes",
+    "title": "Resources",
+    "section": "Data Analysis Toolboxes",
+    "text": "Data Analysis Toolboxes\n\nHDDM is a Python toolbox designed for hierarchical Bayesian parameter estimation for drift diffusion models (DDMs).\n\nThis toolbox also includes modules for:\n\nRunning reinforcement learning data analyses using reinforcement learning drift diffusion models (RLDDMs). See related paper here.\nUsing likelihood approximation networks (LANs). See related paper here."
   }
 ]

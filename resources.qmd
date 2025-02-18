@@ -1,3 +1,65 @@
 ---
 title: "Resources"
 ---
+
+My journey into science was made possible by a host of grad students, post-docs, and professors committed to open science and the mentorship of young researchers. 
+
+Along the way, I've picked up a fair number of resources that I never would have found if they weren't recommended to me. This list is a compilation of those resources.
+
+If you have any additions you'd like to make to this list, please reach out to me!
+
+## Color Palette Generators
+- [Coolors](https://coolors.co/) is a good site for generating color palettes on the fly. It's fast, flexible, and honestly sometimes I just make palettes for fun.
+- [ColorBrewer2](https://colorbrewer2.org/) is an easy way to make more traditional R color palettes. Unlike Coolors, this has no ads, and a direct checkbox to filter for color-blind friendly palettes.
+
+## Citation Tools
+- [freecitationchecker](https://freecitationchecker.vercel.app) goes through your paper and locates your citations and automatically matches them with your references. Anything without a direct match or missing entirely gets flagged. Note that your file must be in .docx format. Created by [John Andrew Chwe](https://jahchwe.github.io).
+
+
+## Data Analysis Tutorials
+
+### fMRI
+- [DartBrains](https://dartbrains.org/content/intro.html) is designed to give an introduction to neuroimaging data analysis (with a focus on functional connectivity and multivoxel pattern analysis).
+
+### Naturalistic
+- [Dartmouth's Naturalistic Data Analysis course](https://naturalistic-data.org/content/intro.html) goes over various techniques for analyzing naturalistic data in Python.
+
+## Data Analysis Toolboxes
+- [HDDM](https://hddm.readthedocs.io/en/latest/) is a Python toolbox designed for hierarchical Bayesian parameter estimation for drift diffusion models (DDMs).
+    - This toolbox also includes modules for: 
+        - Running reinforcement learning data analyses using reinforcement learning drift diffusion models (RLDDMs). See related paper [here](https://doi.org/10.1007/s42113-020-00084-w).
+        - Using likelihood approximation networks (LANs). See related paper [here](https://doi.org/10.7554/eLife.65074). 
+
+## Data Annotation Tools
+
+### Visual
+- [PARE](https://github.com/mkocabas/PARE) (Part Attention REgressor) is an occlusion-robust human pose and shape estimator. See arXiv paper [here](https://arxiv.org/abs/2104.08527).
+- [Py-Feat](https://py-feat.org/pages/intro.html) is a Python toolbox designed to annotate facial expressions in terms of facial landmarks, action units, and emotional expression. See arXiv paper [here](https://arxiv.org/abs/2104.03509).
+
+### Audio
+- [whisperX](https://github.com/m-bain/whisperX) is an automatic speech recognition model designed to provide highly accurate transcriptions along with timestamps. This is an offshoot of OpenAI's [whisper](https://github.com/openai/whisper) with demonstrated superior performance. See arXiv paper [here](https://arxiv.org/abs/2303.00747).
+
+
+## Free Icons
+- [Bootstrap](https://icons.getbootstrap.com) can get you the basics - a bunch of filled and outlined vector graphics in case you need something simple.
+- [Flaticon](https://www.flaticon.com/icons) has tons of options and makes it easy to get several versions of the same character for presentations. 
+    - I'm told that if you're willing to make an account you can also change the color of some icons.
+- [Font Awesome](https://fontawesome.com/search) is similar to Bootstrap but has some more variety. 
+    - If you're cheap like me and won't pay for pro, there aren't many more options but you might find something to your liking.
+
+## Open Source Datasets
+- [OpenCogData](https://nimh-dsst.github.io/OpenCogData/) compiles publicly available cognitive task papers and datasets and is maintained by the NIMH Data Science & Sharing Team.
+    - If you're looking for some papers/datasets for a specific cognitive task/topic, this website also has a tagging system so you can filter relatively easily.
+- [SNAP](https://snap.stanford.edu/data/index.html) (the Stanford Network Analysis Project) has a collection of publicly available large network datasets.
+
+## Open Source Textbooks
+- [Computational Cognitive Neuroscience, 5th Edition](https://compcogneuro.org) by Randall C. O'Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and contributors. 
+    - An introductory textbook for how to computationally model cognitive processes (e.g., perception, attention, motor control). 
+    - There's also a companion set of simulations for you to run as you work your way through the textbook.
+    - This was used in [Michael Frank](https://ski.clps.brown.edu)'s [Computational Cognitive Neuroscience course](https://ski.clps.brown.edu/cogsim.html) at Brown University as recently as Fall 2024.
+- [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg.
+    - An introductory textbook for the conceptual basis of network analysis.
+    - This was used in [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/)'s Networks, Crowds, and the Web course at Columbia University as recently as Spring 2025.
+
+## Website Making Tutorials
+- This website was made following [Sam Csik's Quarto tutorial](https://ucsb-meds.github.io/creating-quarto-websites/) which I highly recommend!
