@@ -9,6 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - resources.qmd
+      - misc.qmd
+#  body-footer: |
+#    <center>
+#    ***
+#    ***
+#    Website by Kaitlyn Mundy ([GitHub](https://github.com/mundy-k), [CV](files/MUNDY_CV.pdf))
+#    </center>
 
 format:
   html:

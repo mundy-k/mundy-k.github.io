@@ -88,7 +88,7 @@
     "href": "resources.html#data-annotation-tools",
     "title": "Resources",
     "section": "Data Annotation Tools",
-    "text": "Data Annotation Tools\n\nVisual\n\nPARE (Part Attention REgressor) is an occlusion-robust human pose and shape estimator. See arXiv paper here.\nPy-Feat is a Python toolbox designed to annotate facial expressions in terms of facial landmarks, action units, and emotional expression. See arXiv paper here.\n\n\n\nAudio\n\nwhisperX is an automatic speech recognition model designed to provide highly accurate transcriptions along with timestamps. This is an offshoot of OpenAI’s whisper with demonstrated superior performance. See arXiv paper here."
+    "text": "Data Annotation Tools\n\nAudio\n\nwhisperX is an automatic speech recognition model designed to provide highly accurate transcriptions along with timestamps. This is an offshoot of OpenAI’s whisper with demonstrated superior performance. See arXiv paper here.\n\n\n\nVisual\n\nPARE (Part Attention REgressor) is an occlusion-robust human pose and shape estimator. See arXiv paper here.\nPy-Feat is a Python toolbox designed to annotate facial expressions in terms of facial landmarks, action units, and emotional expression. See arXiv paper here."
   },
   {
     "objectID": "resources.html#citation-tools",
@@ -117,5 +117,33 @@
     "title": "Resources",
     "section": "Data Analysis Toolboxes",
     "text": "Data Analysis Toolboxes\n\nHDDM is a Python toolbox designed for hierarchical Bayesian parameter estimation for drift diffusion models (DDMs).\n\nThis toolbox also includes modules for:\n\nRunning reinforcement learning data analyses using reinforcement learning drift diffusion models (RLDDMs). See related paper here.\nUsing likelihood approximation networks (LANs). See related paper here."
+  },
+  {
+    "objectID": "footer.html",
+    "href": "footer.html",
+    "title": "K. Mundy",
+    "section": "",
+    "text": "This is a test of the footer."
+  },
+  {
+    "objectID": "misc.html",
+    "href": "misc.html",
+    "title": "Misc.",
+    "section": "",
+    "text": "Miscellaneous links and lists of things that are relevant to me."
+  },
+  {
+    "objectID": "misc.html#recipes-with-notes",
+    "href": "misc.html#recipes-with-notes",
+    "title": "Misc.",
+    "section": "Recipes (with Notes)",
+    "text": "Recipes (with Notes)\n\nKey Lime Pie\n\nNot sure what kind of super-oven they’re baking their pies in, but I’ve found that it needs ~20 minutes in the oven before it starts to bubble. As long as you keep an eye out, you should be fine."
+  },
+  {
+    "objectID": "misc.html#baking-recipes-with-notes",
+    "href": "misc.html#baking-recipes-with-notes",
+    "title": "Misc.",
+    "section": "Baking Recipes (with Notes)",
+    "text": "Baking Recipes (with Notes)\n\nKey Lime Pie\n\nNot sure what kind of super-oven they’re baking their pies in, but I’ve found that it needs ~20 minutes in the oven before it starts to bubble.\nThe base recipe asks for 3 cups of condensed milk, but cans often come in 14 fl oz. I just use two entire cans of fat-free condensed milk and keep the other ingredients at the specified amount (this often means I have enough for two 9-in pie crusts or one 12-in with some raw batter left to eat)\nGoes well with homemade whipped cream\n\nLemon Curd Thumbprint Cookies\n\nCan substitute the lemon curd for your preferred jam or fruit preserve (I’m a big fan of raspberry).\nI always use 2-3 times more cinnamon to give the cookie a little more flavor.\nMake sure you have enough space to store these! Even after they fully cool, the curd tends to be sticky, so they’re not very stackable.\n\nSugar Cookies (Cutout)\n\nIf there aren’t allergy concerns, I recommend adding a bit of almond extract.\nI always chill the dough for at least 20-30 minutes (but that’s also because I’m usually ready for a break after mixing the dough by hand)\nUse powdered sugar instead of flour when you’re rolling them out!\nGood base cookie for royal icing."
   }
 ]
