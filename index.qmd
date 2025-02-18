@@ -1,11 +1,20 @@
 ---
 title: "Kaitlyn Mundy"
+subtitle: "Social Computational Neuroscientist in Training"
+image: imgs/profile.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/mundy-k
+    - icon: file-earmark-text-fill
+      text: CV
+      href: files/MUNDY_CV.pdf
 ---
 
-This is a Quarto website.
+Lab Manager at the [Columbia Social Neuroscience Lab](https://www.columbiasocialneurosciencelab.com) with Dr. Meghan Meyer.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+(Website is very much in the process of being built, please bear with me :))

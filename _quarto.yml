@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "mundy-k.github.io"
+  title: "K. Mundy"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - cv.qmd
+      - resources.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      dark: [sandstone, theme-dark.scss]
+      light: [sandstone, theme-light.scss]
     css: styles.css
     toc: true
 
