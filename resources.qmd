@@ -6,11 +6,12 @@ My journey into science was made possible by a host of grad students, post-docs,
 
 Along the way, I've picked up a fair number of resources that I never would have found if they weren't recommended to me. This list is a compilation of those resources.
 
-If you have any additions you'd like to make to this list, please reach out to me!
+If you have any additions you'd like to make, please reach out to me!
 
 ## Color Palette Generators
 - [Coolors](https://coolors.co/) is a good site for generating color palettes on the fly. It's fast, flexible, and honestly sometimes I just make palettes for fun.
 - [ColorBrewer2](https://colorbrewer2.org/) is an easy way to make more traditional R color palettes. Unlike Coolors, this has no ads, and a direct checkbox to filter for color-blind friendly palettes.
+
 
 ## Citation Tools
 - [freecitationchecker](https://freecitationchecker.vercel.app) goes through your paper and locates your citations and automatically matches them with your references. Anything without a direct match or missing entirely gets flagged. Note that your file must be in .docx format. Created by [John Andrew Chwe](https://jahchwe.github.io).
@@ -24,11 +25,6 @@ If you have any additions you'd like to make to this list, please reach out to m
 ### Naturalistic
 - [Dartmouth's Naturalistic Data Analysis course](https://naturalistic-data.org/content/intro.html) goes over various techniques for analyzing naturalistic data in Python.
 
-## Data Analysis Toolboxes
-- [HDDM](https://hddm.readthedocs.io/en/latest/) is a Python toolbox designed for hierarchical Bayesian parameter estimation for drift diffusion models (DDMs).
-    - This toolbox also includes modules for: 
-        - Running reinforcement learning data analyses using reinforcement learning drift diffusion models (RLDDMs). See related paper [here](https://doi.org/10.1007/s42113-020-00084-w).
-        - Using likelihood approximation networks (LANs). See related paper [here](https://doi.org/10.7554/eLife.65074). 
 
 ## Data Annotation Tools
 
@@ -42,6 +38,7 @@ If you have any additions you'd like to make to this list, please reach out to m
 
 ## Free Icons
 - [Bootstrap](https://icons.getbootstrap.com) can get you the basics - a bunch of filled and outlined vector graphics in case you need something simple.
+- [Chojugiga](https://chojugiga.com) has really cute options if you want up to four consistent characters in your presentation.
 - [Flaticon](https://www.flaticon.com/icons) has tons of options and makes it easy to get several versions of the same character for presentations. 
     - I'm told that if you're willing to make an account you can also change the color of some icons.
 - [Font Awesome](https://fontawesome.com/search) is similar to Bootstrap but has some more variety. 

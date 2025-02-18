@@ -25,14 +25,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "My journey into science was made possible by a host of grad students, post-docs, and professors committed to open science and the mentorship of young researchers.\nAlong the way, I’ve picked up a fair number of resources that I never would have found if they weren’t recommended to me. This list is a compilation of those resources.\nIf you have any additions you’d like to make to this list, please reach out to me!"
+    "text": "My journey into science was made possible by a host of grad students, post-docs, and professors committed to open science and the mentorship of young researchers.\nAlong the way, I’ve picked up a fair number of resources that I never would have found if they weren’t recommended to me. This list is a compilation of those resources.\nIf you have any additions you’d like to make, please reach out to me!"
   },
   {
     "objectID": "resources.html#color-palette-generators",
     "href": "resources.html#color-palette-generators",
     "title": "Resources",
     "section": "Color Palette Generators",
-    "text": "Color Palette Generators\n\nCoolors is a good site for generating color palettes on the fly. It’s fast and flexible, and honestly sometimes I just make palettes for fun.\nColorBrewer2 is an easy way to make more traditional R color palettes. Unlike Coolors, this has no ads, and a direct checkbox to filter for color-blind friendly palettes."
+    "text": "Color Palette Generators\n\nCoolors is a good site for generating color palettes on the fly. It’s fast, flexible, and honestly sometimes I just make palettes for fun.\nColorBrewer2 is an easy way to make more traditional R color palettes. Unlike Coolors, this has no ads, and a direct checkbox to filter for color-blind friendly palettes."
   },
   {
     "objectID": "resources.html#website-makers",
@@ -67,7 +67,7 @@
     "href": "resources.html#free-icons",
     "title": "Resources",
     "section": "Free Icons",
-    "text": "Free Icons\n\nBootstrap can get you the basics - a bunch of filled and outlined vector graphics in case you need something simple.\nFlaticon has tons of options and makes it easy to get several versions of the same character for presentations.\n\nI’m told that if you’re willing to make an account you can also change the color of some icons.\n\nFont Awesome is similar to Bootstrap but has some more variety.\n\nIf you’re cheap like me and won’t pay for pro, there aren’t many more options but you might find something to your liking."
+    "text": "Free Icons\n\nBootstrap can get you the basics - a bunch of filled and outlined vector graphics in case you need something simple.\nChojugiga has really cute options if you want up to four consistent characters in your presentation.\nFlaticon has tons of options and makes it easy to get several versions of the same character for presentations.\n\nI’m told that if you’re willing to make an account you can also change the color of some icons.\n\nFont Awesome is similar to Bootstrap but has some more variety.\n\nIf you’re cheap like me and won’t pay for pro, there aren’t many more options but you might find something to your liking."
   },
   {
     "objectID": "resources.html#data-analysis-tools",
