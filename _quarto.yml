@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "K. Mundy"
+  title: "Mundy, K."
   navbar:
     right:
       - href: index.qmd
