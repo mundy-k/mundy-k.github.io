@@ -145,5 +145,12 @@
     "title": "Misc.",
     "section": "Baking Recipes (with Notes)",
     "text": "Baking Recipes (with Notes)\n\nButter Pecan Cookies\n\nHonestly not sure I ever remember the cornstarch for this one, but it turns out good either way.\nVanilla extract is meant to be measured with the heart.\n\nKey Lime Pie\n\nNot sure what kind of super-oven they’re baking their pies in, but I’ve found that it needs ~20 minutes in the oven before it starts to bubble.\nThe base recipe asks for 3 cups of condensed milk, but cans often come in 14 fl oz. I just use two entire cans of fat-free condensed milk and keep the other ingredients at the specified amount (this often means I have enough for two 9-in pie crusts or one 12-in with some raw batter left to eat).\nGoes well with homemade whipped cream.\n\nLemon Curd Thumbprint Cookies\n\nCan substitute the lemon curd for your preferred jam or fruit preserve (I’m a big fan of raspberry).\nI always use 2-3 times more cinnamon to give the cookie a little more flavor.\nMake sure you have enough space to store these! Even after they fully cool, the curd tends to be sticky, so they’re not very stackable.\n\nSugar Cookies (Cutout)\n\nIf there aren’t allergy concerns, I recommend adding a bit of almond extract.\nI always chill the dough for at least 20-30 minutes (but that’s also because I’m usually ready for a break after mixing the dough by hand).\nUse powdered sugar instead of flour when you’re rolling them out!\nGood base cookie for royal icing."
+  },
+  {
+    "objectID": "resources.html#coding",
+    "href": "resources.html#coding",
+    "title": "Resources",
+    "section": "Coding",
+    "text": "Coding\n\nThis Markdown Cheatsheet is a helpful guide to how to do many of the basics if you’re working with markdown files (e.g. Jupyter Notebook, R Markdown, Quarto Markdown)."
   }
 ]
