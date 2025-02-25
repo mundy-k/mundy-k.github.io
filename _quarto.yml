@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  favicon: imgs/favicon.png
+#  favicon: imgs/favicon.png
   title: "Mundy, K."
   navbar:
     right:
