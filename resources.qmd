@@ -8,14 +8,18 @@ Along the way, I've picked up a fair number of resources that I never would have
 
 If you have any additions you'd like to make, please reach out to me!
 
+## Citation Tools
+
+-   [freecitationchecker](https://freecitationchecker.vercel.app) goes through your paper and locates your citations and automatically matches them with your references. Anything without a direct match or missing entirely gets flagged. Note that your file must be in .docx format. Created by [John Andrew Chwe](https://jahchwe.github.io).
+
+## Coding
+
+-   [This Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a helpful guide to how to do many of the basics if you're working with markdown files (e.g. Jupyter Notebook, R Markdown, Quarto Markdown).
+
 ## Color Palette Generators
 
 -   [Coolors](https://coolors.co/) is a good site for generating color palettes on the fly. It's fast, flexible, and honestly sometimes I just make palettes for fun.
 -   [ColorBrewer2](https://colorbrewer2.org/) is an easy way to make more traditional R color palettes. Unlike Coolors, this has no ads, and a direct checkbox to filter for color-blind friendly palettes.
-
-## Citation Tools
-
--   [freecitationchecker](https://freecitationchecker.vercel.app) goes through your paper and locates your citations and automatically matches them with your references. Anything without a direct match or missing entirely gets flagged. Note that your file must be in .docx format. Created by [John Andrew Chwe](https://jahchwe.github.io).
 
 ## Data Analysis Tutorials
 
