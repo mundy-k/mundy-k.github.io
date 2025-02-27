@@ -4,6 +4,10 @@ title: "About"
 
 About this site
 
+<div class="page_wrap" id="network_box">
+  <canvas width="320" height="160" style="display: block; position: absolute; top: 0px; left: 0px; height: 100%; width: 100%; overflow: hidden; pointer-events: none; z-index: -1; opacity: 0.5;"></canvas>
+</div>
+
 ```{r}
 1 + 1
 ```

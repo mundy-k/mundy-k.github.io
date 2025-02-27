@@ -11,12 +11,14 @@ website:
         text: Home
       - resources.qmd
       - misc.qmd
-#  body-footer: |
-#    <center>
-#    ***
-#    ***
-#    Website by Kaitlyn Mundy ([GitHub](https://github.com/mundy-k), [CV](files/MUNDY_CV.pdf))
-#    </center>
+#  announcement: 
+#    icon: info-circle
+#    dismissable: true
+#    content: "**Alert** - this is some information that you should pay attention to"
+#    type: secondary
+#    position: below-navbar
+#  page-footer: |
+  
 
 format:
   html:
@@ -25,6 +27,7 @@ format:
       light: [sandstone, theme-light.scss]
     css: styles.css
     toc: true
+
 
 editor: source
 

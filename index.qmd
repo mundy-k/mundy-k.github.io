@@ -12,8 +12,10 @@ about:
     - icon: file-earmark-text-fill
       text: CV
       href: files/MUNDY_CV.pdf
+include-after-body: "footer.html"
 ---
 
 Lab Manager at the [Columbia Social Neuroscience Lab](https://www.columbiasocialneurosciencelab.com) with Dr. Meghan Meyer.
 
 (Website is very much in the process of being built, please bear with me :))
+
