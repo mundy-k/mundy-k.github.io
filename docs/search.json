@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n\n\n\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "cv.html",
@@ -152,5 +152,19 @@
     "title": "Resources",
     "section": "Coding",
     "text": "Coding\n\nThis Markdown Cheatsheet is a helpful guide to how to do many of the basics if you’re working with markdown files (e.g. Jupyter Notebook, R Markdown, Quarto Markdown)."
+  },
+  {
+    "objectID": "resources.html#other-websites-with-resource-lists",
+    "href": "resources.html#other-websites-with-resource-lists",
+    "title": "Resources",
+    "section": "Other Websites with Resource Lists",
+    "text": "Other Websites with Resource Lists\n\nCompSAN or Computational Social Affective Neuroscience has a bunch of tutorials as well as a job board and links to other online resources."
+  },
+  {
+    "objectID": "research.html#posters",
+    "href": "research.html#posters",
+    "title": "Research",
+    "section": "Posters",
+    "text": "Posters\n\nSAS 2025: Synchrony between self-reflection and social evaluation neural patterns during post-evaluation rest predicts internalizing what others think of us\nUndergraduate Thesis: Learning of Probabilistic Motivational Incentives and Their Effect on Effort Allocation"
   }
 ]

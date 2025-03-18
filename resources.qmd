@@ -67,6 +67,9 @@ If you have any additions you'd like to make, please reach out to me!
     -   An introductory textbook for the conceptual basis of network analysis.
     -   This was used in [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/)'s Networks, Crowds, and the Web course at Columbia University as recently as Spring 2025.
 
+## Other Websites with Resource Lists
+-   [CompSAN](https://compsan.org) or Computational Social Affective Neuroscience has a bunch of tutorials as well as a job board and links to other online resources.
+
 ## Website Making Tutorials
 
 -   This website was made following [Sam Csik's Quarto tutorial](https://ucsb-meds.github.io/creating-quarto-websites/) which I highly recommend!

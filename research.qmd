@@ -2,3 +2,9 @@
 title: "Research"
 ---
 
+## Current Projects
+
+
+## Posters
+-   [SAS 2025](files/KM_SAS_2025.pdf): Synchrony between self-reflection and social evaluation neural patterns during post-evaluation rest predicts internalizing what others think of us
+-   [Undergraduate Thesis](files/KM_Thesis_2023.pdf): Learning of Probabilistic Motivational Incentives and Their Effect on Effort Allocation
