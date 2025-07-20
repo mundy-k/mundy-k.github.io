@@ -81,7 +81,7 @@
     "href": "resources.html#data-analysis-tutorials",
     "title": "Resources",
     "section": "Data Analysis Tutorials",
-    "text": "Data Analysis Tutorials\n\nfMRI\n\nAndy’s Brain Book is an all-round introduction to fMRI analysis using SPM, FSL, and AFNI.\nDartBrains is designed to give an introduction to neuroimaging data analysis (with a focus on functional connectivity and multivoxel pattern analysis).\n\n\n\nNaturalistic\n\nDartmouth’s Naturalistic Data Analysis course goes over various techniques for analyzing naturalistic data in Python."
+    "text": "Data Analysis Tutorials\n\nBehavioral\n\nStanford Anthropology’s Social Network Analysis Workshop walks through some social network analyses.\nDartmouth’s Naturalistic Data Analysis course goes over various techniques for analyzing naturalistic data in Python.\n\n\n\nfMRI\n\nAndy’s Brain Book is an all-round introduction to fMRI analysis using SPM, FSL, and AFNI.\nDartBrains is designed to give an introduction to neuroimaging data analysis (with a focus on functional connectivity and multivoxel pattern analysis)."
   },
   {
     "objectID": "resources.html#data-annotation-tools",
