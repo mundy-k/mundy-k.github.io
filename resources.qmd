@@ -43,6 +43,7 @@ If you have any additions you'd like to make, please reach out to me!
 
 ### Visual
 
+-   [Easy OCR](https://github.com/JaidedAI/EasyOCR) (Optical Character Recognition) is designed to extract natural language from images, producing text strings for more easy data processing. As of July 2025, compatible with printed text but not handwritten. 
 -   [PARE](https://github.com/mkocabas/PARE) (Part Attention REgressor) is an occlusion-robust human pose and shape estimator. See arXiv paper [here](https://arxiv.org/abs/2104.08527).
 -   [Py-Feat](https://py-feat.org/pages/intro.html) is a Python toolbox designed to annotate facial expressions in terms of facial landmarks, action units, and emotional expression. See arXiv paper [here](https://arxiv.org/abs/2104.03509).
 
