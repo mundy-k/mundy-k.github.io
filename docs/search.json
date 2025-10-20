@@ -173,5 +173,12 @@
     "title": "Research",
     "section": "",
     "text": "SANS 2025: Lonely individuals idiosyncratically interpret social information from novel narratives\nSAS 2025: Synchrony between self-reflection and social evaluation neural patterns during post-evaluation rest predicts internalizing what others think of us\nUndergraduate Thesis: Learning of probabilistic motivational incentives and their effect on effort allocation"
+  },
+  {
+    "objectID": "resources.html#open-source",
+    "href": "resources.html#open-source",
+    "title": "Resources",
+    "section": "Open Source",
+    "text": "Open Source\n\nConference Workshops\n\nArtificial Neural Networks as Models of the Brain in Cognitive Neuroscience organized by Isil Poyraz Bilgin, Pierre Bellec, and Elizabeth DuPre\n\nIntroduction to the construction of neural network models of the brain (focused in part on decoding/encoding)\nPresented at the 2023 Organization for Human Brain Mapping (OHBM) Conference\n\n\n\n\nDatasets\n\nOpenCogData compiles publicly available cognitive task papers and datasets and is maintained by the NIMH Data Science & Sharing Team.\n\nIf you’re looking for some papers/datasets for a specific cognitive task/topic, this website also has a tagging system so you can filter relatively easily.\n\nSNAP (the Stanford Network Analysis Project) has a collection of publicly available large network datasets.\n\n\n\nTextbooks\n\nComputational Cognitive Neuroscience, 5th Edition by Randall C. O’Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and contributors.\n\nAn introductory textbook for how to computationally model cognitive processes (e.g., perception, attention, motor control).\nThere’s also a companion set of simulations for you to run as you work your way through the textbook.\nThis was used in Michael Frank’s Computational Cognitive Neuroscience course at Brown University as recently as Fall 2024.\n\nNetworks, Crowds, and Markets: Reasoning About a Highly Connected World by David Easley and Jon Kleinberg.\n\nAn introductory textbook for the conceptual basis of network analysis.\nThis was used in Augustin Chaintreau’s Networks, Crowds, and the Web course at Columbia University as recently as Spring 2025."
   }
 ]

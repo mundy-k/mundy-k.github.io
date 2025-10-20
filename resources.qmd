@@ -55,13 +55,21 @@ If you have any additions you'd like to make, please reach out to me!
 -   [Font Awesome](https://fontawesome.com/search) is similar to Bootstrap but has some more variety.
     -   If you're cheap like me and won't pay for pro, there aren't many more options but you might find something to your liking.
 
-## Open Source Datasets
+## Open Source 
+
+### Conference Workshops
+
+-   [Artificial Neural Networks as Models of the Brain in Cognitive Neuroscience](https://neuroai-educational.github.io/intro.html) organized by Isil Poyraz Bilgin, Pierre Bellec, and Elizabeth DuPre
+    - Introduction to the construction of neural network models of the brain (focused in part on decoding/encoding)
+    - Presented at the 2023 Organization for Human Brain Mapping (OHBM) Conference
+
+### Datasets
 
 -   [OpenCogData](https://nimh-dsst.github.io/OpenCogData/) compiles publicly available cognitive task papers and datasets and is maintained by the NIMH Data Science & Sharing Team.
     -   If you're looking for some papers/datasets for a specific cognitive task/topic, this website also has a tagging system so you can filter relatively easily.
 -   [SNAP](https://snap.stanford.edu/data/index.html) (the Stanford Network Analysis Project) has a collection of publicly available large network datasets.
 
-## Open Source Textbooks
+### Textbooks
 
 -   [Computational Cognitive Neuroscience, 5th Edition](https://compcogneuro.org) by Randall C. O'Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and contributors.
     -   An introductory textbook for how to computationally model cognitive processes (e.g., perception, attention, motor control).
