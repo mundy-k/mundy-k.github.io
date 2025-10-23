@@ -54,6 +54,7 @@ If you have any additions you'd like to make, please reach out to me!
     -   I'm told that if you're willing to make an account you can also change the color of some icons.
 -   [Font Awesome](https://fontawesome.com/search) is similar to Bootstrap but has some more variety.
     -   If you're cheap like me and won't pay for pro, there aren't many more options but you might find something to your liking.
+-   [The Noun Project](https://thenounproject.com) is similar to Bootstrap and Font Awesome but has a massive selection.
 
 ## Open Source 
 
