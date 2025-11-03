@@ -70,6 +70,13 @@ If you have any additions you'd like to make, please reach out to me!
     -   If you're looking for some papers/datasets for a specific cognitive task/topic, this website also has a tagging system so you can filter relatively easily.
 -   [SNAP](https://snap.stanford.edu/data/index.html) (the Stanford Network Analysis Project) has a collection of publicly available large network datasets.
 
+### Personal Tutorials & Workshops
+
+-   Statistics 
+    - Maarten Speekenbrink, [Statistics: Data analysis and modelling](https://mspeekenbrink.github.io/sdam-book/index.html)
+    - Michael Franke, [An Introduction to Data Analysis](https://michael-franke.github.io/intro-data-analysis/)
+    - Kevin Ross, [An Introduction to Bayesian Reasoning and Methods](https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/)
+
 ### Textbooks
 
 -   [Computational Cognitive Neuroscience, 5th Edition](https://compcogneuro.org) by Randall C. O'Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and contributors.
